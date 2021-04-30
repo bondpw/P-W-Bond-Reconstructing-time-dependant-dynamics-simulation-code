@@ -8,3 +8,5 @@ Process: this impliments the Runge-Kutta method. This also saves the files as .c
 your computer
 
 Simulation: this allows for parameters - not defined in the paper - to be defined. As well as the time-step and number of iterations for the Runge-Kutta method.
+
+Analysis: this plots the data obtained by the simulation
